@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Kulmi-in-one",
+    "slug": "kulmi-in-one",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#6C3BFF"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ducaaledaacad06.kulmiinone"
+    },
+    "android": {
+      "package": "com.ducaaledaacad06.kulmiinone",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#6C3BFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "311a769e-814c-49cd-93fe-4171b31a9e66"
+      }
+    }
+  }
+}
