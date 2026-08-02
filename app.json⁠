@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Kulmi-in-one",
+    "slug": "kulmi-in-one",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.ducaaledaacad06.kulmiinone"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "311a769e-814c-49cd-93fe-4171b31a9e66"
+      }
+    }
+  }
+}
